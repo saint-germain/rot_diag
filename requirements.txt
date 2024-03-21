@@ -1,0 +1,6 @@
+astropy
+astroquery
+peakutils
+lineid_plot
+lmfit
+scipy
