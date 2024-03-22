@@ -4,3 +4,5 @@ peakutils
 lineid_plot
 lmfit
 scipy
+matplotlib
+pandas
